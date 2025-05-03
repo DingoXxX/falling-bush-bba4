@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "falling-bush-bba4",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "18aaff47-f19a-48d2-85cc-08e28b369585",
+      "database_name": "damp-bush-613b-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
